@@ -1,2 +1,21 @@
-# excel-challenge-wc
-Monash University Part Time Nov 2020 Bootcamp Week 01 Homework - Excel Challenge
+# Excel Challenge
+
+## Task
+
+### xyz
+
+xyz
+
+**xyz**
+
+
+### xyz
+
+
+--- 
+
+## Technologies
+
+* Microsoft Excel:
+  * Pivot Tables
+  * Pivot Charts
